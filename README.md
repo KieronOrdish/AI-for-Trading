@@ -26,8 +26,4 @@ Project: Sentiment Analysis with Neural Networks
 
 Project: Combining Signals for Enhanced Alpha
 
-Project: Improve Your LinkedIn Profile
-
-Project: Optimize Your GitHub Profile
-
 Project: Backtesting
